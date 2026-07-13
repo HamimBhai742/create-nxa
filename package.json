@@ -1,6 +1,6 @@
 {
   "name": "create-nxa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to bootstrap a new Next.js project with a modern starter template.",
   "main": "bin/cli.js",
   "bin": {
