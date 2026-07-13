@@ -6,6 +6,14 @@
   "bin": {
     "create-nxa": "bin/cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamimBhai742/create-nxa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HamimBhai742/create-nxa/issues"
+  },
+  "homepage": "https://github.com/HamimBhai742/create-nxa#readme",
   "engines": {
     "node": ">=16.17.0"
   },
